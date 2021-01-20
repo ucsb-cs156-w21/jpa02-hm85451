@@ -1,17 +1,10 @@
 # STARTER-jpa02-haomingchen
 
-
 Repo: https://github.com/ucsb-cs156-w21/jpa02-hm85451
-
-
-https://jpa02-haomingchen.herokuapp.com/
-
 
 On Heroku: https://jpa02-haomingchen.herokuapp.com
 
-
 On Codecov: https://codecov.io/gh/ucsb-cs156-w21/jpa02-hm85451
-
 
 # About this repo
 
